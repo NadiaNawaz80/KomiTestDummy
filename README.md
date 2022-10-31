@@ -19,5 +19,5 @@ Go to: src/test/resources/features/Task2.feature
 Go to target/cucumber-report.html
 Right click, open in browser, and select browser of your choice.
 
-I am aware you use cypress within the business however cypress is a tool I am very excited to learn. And if I was given the opportunity to join your team I will start practicing/studying cypress, so I am up to speed come start date.
+I am aware you use cypress within the business however cypress is a tool I am very excited to learn. And if I was given the opportunity to join your team I will start practising/studying cypress, so I am up to speed come start date.
 Please feel free to ask any other questions.
